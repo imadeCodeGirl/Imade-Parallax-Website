@@ -43,3 +43,23 @@ body, html{
 .section-dark{
     background-color: #282e34;
     color: #dddddd;
+}
+
+.ptext{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.ptext .border-dark{
+    background-color: #111111;
+    color: #fff;
+    padding: 20px;
+}
+.ptext .border{
+    color: #fff; 
+}
